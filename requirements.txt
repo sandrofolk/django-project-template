@@ -1,0 +1,9 @@
+python-decouple
+dj-database-url
+dj-static
+django-extensions
+django-test-without-migrations
+gunicorn
+psycopg2
+django-extensions
+django-debug-toolbar

@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.idea
+__pycache__
+*.pyc
+.venv
+*.sqlite3
+staticfiles
+.floo
+.flooignore
