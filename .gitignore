@@ -1,9 +1,0 @@
-.DS_Store
-.idea
-__pycache__
-*.pyc
-.venv
-*.sqlite3
-staticfiles
-.floo
-.flooignore
