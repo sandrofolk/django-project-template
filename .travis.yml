@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.5"
+install:
+  - cp contrib/env-sample .env
+  - pip install -q -r requirements.txt
+  - pip install coveralls
+script:
+  - python manage.py test
+  - coverage run --source={{ project_name }} manage.py test
+after_success:
+  - coveralls

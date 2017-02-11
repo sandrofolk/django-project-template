@@ -1,8 +1,8 @@
 # {{ project_name }}
 
-[![Build Status](link-to-travis)](link-to-travis)
-[![Code Health](link-to-landscape)](link-to-landscape)
-[![Coverage Status](link-to-coveralls)](link-to-coveralls)
+[![Build Status](https://travis-ci.org/sandrofolk/{{ project_name }}.svg?branch=master)](https://travis-ci.org/sandrofolk/{{ project_name }})
+[![Code Health](https://landscape.io/github/sandrofolk/{{ project_name }}/master/landscape.svg?style=flat)](https://landscape.io/github/sandrofolk/{{ project_name }}/master)
+[![Coverage Status](https://coveralls.io/repos/github/sandrofolk/{{ project_name }}/badge.svg?branch=master)](https://coveralls.io/github/sandrofolk/{{ project_name }}?branch=master)
 
 ## Como desenvolver?
 
