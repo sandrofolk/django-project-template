@@ -14,7 +14,7 @@
 6. Execute os testes.
 
 ```console
-git clone link-to-project.git
+git clone git@github.com:sandrofolk/{{ project_name }}.git
 cd {{ project_name }}
 python -m venv .venv
 source .venv/bin/activate
