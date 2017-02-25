@@ -23,6 +23,15 @@ cp contrib/env-sample .env
 python manage.py test
 ```
 
+## Como traduzir
+
+1. Gere os arquivos de tradução.
+2. Compile os textos traduzidos.
+
+```console
+manage makemessages -l en -l pt_BR
+manage compilemessages
+```
 
 ## Como fazer o deploy?
 
